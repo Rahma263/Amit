@@ -14,6 +14,9 @@ Machine Learning.
 
 To get started with this project, clone the repository and
 navigate to the `python-for-ml` folder
-##python-for-ml Folder
-###basic.py
+
+## python-for-ml Folder
+
+### basic.py
+
 Contains simple practice code for Python
