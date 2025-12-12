@@ -1,5 +1,3 @@
-# Amit
-
 # Amit Repository
 
 ## Project Overview
@@ -11,6 +9,12 @@ Machine Learning.
 
 - `python-for-ml/`: Contains Python scripts and resources for
   Machine Learning.
+
+## Contents
+
+### `python-for-ml/test.ipynb`
+
+A Jupyter notebook for testing and experimentation with Machine Learning concepts.
 
 ## Getting Started
 
